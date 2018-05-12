@@ -1,15 +1,21 @@
 _repo: Human-Follies-La-Betise-Humaine_50179
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Marlow, George
     gutenberg_agent_id: '45738'
     url: http://www.gutenberg.org/2009/agents/45738
+covers:
+- cover_type: archival
+  image_path: 50179-h/images/cover.jpg
 creator:
   author:
     agent_name: Noriac, Jules
     gutenberg_agent_id: '45737'
     url: http://www.gutenberg.org/2009/agents/45737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50179#Human-Follies-La-Betise-Humaine
 gutenberg_issued: '2015-10-11'
 gutenberg_type: Text
 identifiers:
